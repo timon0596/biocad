@@ -1,0 +1,375 @@
+@font-face {
+    font-family: 'TT Norms';
+    src: url(fonts/7695fb097d053793fabf690e505bdf00.eot);
+    src: local('TT Norms Bold'), local('TTNorms-Bold'),
+        url(fonts/7695fb097d053793fabf690e505bdf00.eot?#iefix) format('embedded-opentype'),
+        url(fonts/0c316350ff69395b8a834c97d9657f00.woff2) format('woff2'),
+        url(fonts/1009f03324315eb8bb66d610775afe82.woff) format('woff'),
+        url(fonts/64f8b35b6c80f4b77fdc090d3cd9f616.ttf) format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Norms';
+    src: url(fonts/893b1e9258fa679d5689e3381eefb5ba.eot);
+    src: local('TT Norms Thin Italic'), local('TTNorms-ThinItalic'),
+        url(fonts/893b1e9258fa679d5689e3381eefb5ba.eot?#iefix) format('embedded-opentype'),
+        url(fonts/c3517b03327267dee3db36199625178a.woff2) format('woff2'),
+        url(fonts/6ab9c43ba119ab72fe275d12c5345335.woff) format('woff'),
+        url(fonts/d87fbe2abcfcdc82fb44345ef7e4dfa7.ttf) format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Norms';
+    src: url(fonts/b5f6def0dda90a0e540a5fe011f63192.eot);
+    src: local('TT Norms Thin'), local('TTNorms-Thin'),
+        url(fonts/b5f6def0dda90a0e540a5fe011f63192.eot?#iefix) format('embedded-opentype'),
+        url(fonts/b07f21af5fe38fee175a1e00d006da29.woff2) format('woff2'),
+        url(fonts/d523157ee5916706ecf9b68f057e7b0a.woff) format('woff'),
+        url(fonts/213cb930a634e1810bc5440f671c5220.ttf) format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Norms';
+    src: url(fonts/133e66efa5dd2e4b797144da1cf21fec.eot);
+    src: local('TT Norms Light Italic'), local('TTNorms-LightItalic'),
+        url(fonts/133e66efa5dd2e4b797144da1cf21fec.eot?#iefix) format('embedded-opentype'),
+        url(fonts/8005404026cca7d26a3ecb7318597d97.woff2) format('woff2'),
+        url(fonts/a74a26160881dc1cfcc91adc6c8a0159.woff) format('woff'),
+        url(fonts/12dc4f472cdce92a0fcfc9c67c2d8b3c.ttf) format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Norms';
+    src: url(fonts/46cc55b536b0f4c1f9da11c7b6d23eb6.eot);
+    src: local('TT Norms ExtraBold Italic'), local('TTNorms-ExtraBoldItalic'),
+        url(fonts/46cc55b536b0f4c1f9da11c7b6d23eb6.eot?#iefix) format('embedded-opentype'),
+        url(fonts/8a7710590c6a153bb671afbb08bad2b7.woff2) format('woff2'),
+        url(fonts/9a30e8f0dd95fceaa89cf08605ea7236.woff) format('woff'),
+        url(fonts/64fd1cb0c26d604cfc3f71b384d30b97.ttf) format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Norms';
+    src: url(fonts/13e12f04cba5cb33adafa6318b1194c3.eot);
+    src: local('TT Norms Italic'), local('TTNorms-Italic'),
+        url(fonts/13e12f04cba5cb33adafa6318b1194c3.eot?#iefix) format('embedded-opentype'),
+        url(fonts/15e646df209c9b62ef60eab3d31015a9.woff2) format('woff2'),
+        url(fonts/b073cdd300beb24e86302040f55b6658.woff) format('woff'),
+        url(fonts/5e90ca92faad956c6201ba0a07a43d82.ttf) format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Norms';
+    src: url(fonts/491f077bbf4e5baa8a03d2fda9dd614c.eot);
+    src: local('TT Norms ExtraLight'), local('TTNorms-ExtraLight'),
+        url(fonts/491f077bbf4e5baa8a03d2fda9dd614c.eot?#iefix) format('embedded-opentype'),
+        url(fonts/4436344738a59f669a771edf5a237f74.woff2) format('woff2'),
+        url(fonts/004fb861db3f22b2677f37e95b598407.woff) format('woff'),
+        url(fonts/368a68b67f5d4aac4c52ae479ea1cb90.ttf) format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Norms';
+    src: url(fonts/16f29f2c4a2f8ac9c05c4b7161c13f9b.eot);
+    src: local('TT Norms Heavy Italic'), local('TTNorms-HeavyItalic'),
+        url(fonts/16f29f2c4a2f8ac9c05c4b7161c13f9b.eot?#iefix) format('embedded-opentype'),
+        url(fonts/15b01c607f7e6291716ab3a0205bfbae.woff2) format('woff2'),
+        url(fonts/968ac1564de430ec7daead4153e9ecca.woff) format('woff'),
+        url(fonts/5004356bed245579d153e5c7b48987f7.ttf) format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Norms';
+    src: url(fonts/3d7734f61bc614aa3cfcb607b124cbd0.eot);
+    src: local('TT Norms Medium Italic'), local('TTNorms-MediumItalic'),
+        url(fonts/3d7734f61bc614aa3cfcb607b124cbd0.eot?#iefix) format('embedded-opentype'),
+        url(fonts/e9599d080569b2d0856892128350efa8.woff2) format('woff2'),
+        url(fonts/bf2936348754a64d902b01fce87df43d.woff) format('woff'),
+        url(fonts/5600c148b2f0c7fe3f0376de525a03a1.ttf) format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Norms';
+    src: url(fonts/ae73dc626a3cac6b6c2063b7f8efc64b.eot);
+    src: local('TT Norms Bold Italic'), local('TTNorms-BoldItalic'),
+        url(fonts/ae73dc626a3cac6b6c2063b7f8efc64b.eot?#iefix) format('embedded-opentype'),
+        url(fonts/02e9567769ab0e5c2176dbea1feba135.woff2) format('woff2'),
+        url(fonts/465218007e4961c4cfb7c69de65f48f1.woff) format('woff'),
+        url(fonts/0d488549dd9652a3bd5afdbd4a8a49f0.ttf) format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Norms';
+    src: url(fonts/f9dca104f5e65b138bf3527bed5ea831.eot);
+    src: local('TT Norms Heavy'), local('TTNorms-Heavy'),
+        url(fonts/f9dca104f5e65b138bf3527bed5ea831.eot?#iefix) format('embedded-opentype'),
+        url(fonts/7ec684f452e77a40233bdd5e06dc42cd.woff2) format('woff2'),
+        url(fonts/942fa011bf304508216e82de00f5a868.woff) format('woff'),
+        url(fonts/97ee7bc2191d6fd2092c53455389ab5f.ttf) format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Norms';
+    src: url(fonts/ca4fdb952f5c0d34179e41c06332d229.eot);
+    src: local('TT Norms Light'), local('TTNorms-Light'),
+        url(fonts/ca4fdb952f5c0d34179e41c06332d229.eot?#iefix) format('embedded-opentype'),
+        url(fonts/86a57e29dcc9af822906a0ea87c80512.woff2) format('woff2'),
+        url(fonts/80dc0df7a146101811666e2b3a533e89.woff) format('woff'),
+        url(fonts/1504a2b537f15e92e32f9c9f6970057b.ttf) format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Norms';
+    src: url(fonts/69acfd1e0ec986e2cbf935ec3a93766e.eot);
+    src: local('TT Norms Medium'), local('TTNorms-Medium'),
+        url(fonts/69acfd1e0ec986e2cbf935ec3a93766e.eot?#iefix) format('embedded-opentype'),
+        url(fonts/5f95b44803472f333bb13e09a82db036.woff2) format('woff2'),
+        url(fonts/98c072155c25195df9b0015da6dbe52f.woff) format('woff'),
+        url(fonts/1082eb3bf7be09cb7eea9fd3c057732e.ttf) format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Norms';
+    src: url(fonts/0570c4c971e771c5181fbb13ce9b926b.eot);
+    src: local('TT Norms ExtraBold'), local('TTNorms-ExtraBold'),
+        url(fonts/0570c4c971e771c5181fbb13ce9b926b.eot?#iefix) format('embedded-opentype'),
+        url(fonts/68af0ab913a679b9a67c07fce126a61f.woff2) format('woff2'),
+        url(fonts/faff73e68bc9c9a5ff7aae218f486e27.woff) format('woff'),
+        url(fonts/aaeea6a6c907fc502041418b37d5403f.ttf) format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Norms';
+    src: url(fonts/63aba23f4f0bf86edd9283f51c5f45a3.eot);
+    src: local('TT Norms ExtraLight Italic'), local('TTNorms-ExtraLightItalic'),
+        url(fonts/63aba23f4f0bf86edd9283f51c5f45a3.eot?#iefix) format('embedded-opentype'),
+        url(fonts/1d52fa4c5ae310d3b8f54863e3f16cbd.woff2) format('woff2'),
+        url(fonts/a7cf3a0b88cb4a3c709c8570d2b8da5c.woff) format('woff'),
+        url(fonts/441584c1a327027648040eca0a822f4d.ttf) format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Norms';
+    src: url(fonts/c585352cc2be6277de0cb0adab7cbede.eot);
+    src: local('TT Norms Regular'), local('TTNorms-Regular'),
+        url(fonts/c585352cc2be6277de0cb0adab7cbede.eot?#iefix) format('embedded-opentype'),
+        url(fonts/9bd7b9e405ce2e05a7466189c49402c4.woff2) format('woff2'),
+        url(fonts/33f150c6ac81219f18b55864e087dd12.woff) format('woff'),
+        url(fonts/eb6edc3979c854b8a687a8b973dda56a.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Norms';
+    src: url(fonts/cfcc44d4d2ae2bd956fd0c8f3be1c232.eot);
+    src: local('TT Norms Black Italic'), local('TTNorms-BlackItalic'),
+        url(fonts/cfcc44d4d2ae2bd956fd0c8f3be1c232.eot?#iefix) format('embedded-opentype'),
+        url(fonts/5cc90dee3b75625f322a194ea5ec2057.woff2) format('woff2'),
+        url(fonts/00044896bccc73361ff754169377f201.woff) format('woff'),
+        url(fonts/2d2351a0c7b50c89f97dc14a1e3eac14.ttf) format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Norms';
+    src: url(fonts/a99a1caa1dc8ffc3b0d5e54c9e15fa3b.eot);
+    src: local('TT Norms Black'), local('TTNorms-Black'),
+        url(fonts/a99a1caa1dc8ffc3b0d5e54c9e15fa3b.eot?#iefix) format('embedded-opentype'),
+        url(fonts/04230333dd1a8b24e92fa48060d3afcd.woff2) format('woff2'),
+        url(fonts/5a246f88fc7f4539fa8d90711016d1c0.woff) format('woff'),
+        url(fonts/b60f40cea4fa7f81d95785e877c31645.ttf) format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+
+* {
+  box-sizing: border-box; }
+
+body {
+  font-family: TT Norms;
+  font-style: normal;
+  font-weight: normal;
+  color: #353535;
+  background: #fff;
+  display: flex;
+  justify-content: center; }
+
+.container {
+  padding: 30px 50px;
+  min-height: 100vh;
+  max-width: 1000px;
+  width: 100%; }
+
+.btn {
+  border-radius: 3px;
+  color: white;
+  background: #353535;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 90px;
+  height: 40px; }
+  .btn_important {
+    background: #4990E2;
+    width: 180px; }
+  .btn:active {
+    opacity: .5; }
+
+.heading {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.16px;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+  color: #8C8C8C;
+  margin-bottom: 20px; }
+
+.search {
+  display: grid;
+  grid-auto-flow: column;
+  grid-gap: 20px;
+  justify-content: start;
+  align-items: center;
+  margin-bottom: 30px; }
+
+input,
+select {
+  background: #FFFFFF;
+  border: 1px solid #E9E9E9;
+  padding-left: 12px;
+  height: 30px;
+  width: 210px; }
+
+select {
+  width: 220px; }
+
+.report {
+  display: grid;
+  grid-auto-flow: column;
+  grid-gap: 65px;
+  margin-bottom: 45px; }
+  .report .device {
+    display: grid;
+    grid-auto-flow: column;
+    grid-gap: 20px;
+    justify-content: start;
+    align-items: center;
+    margin-bottom: 30px; }
+    .report .device__name {
+      font-family: TT Norms;
+      font-style: normal;
+      font-weight: 500;
+      font-size: 20px;
+      line-height: 24px;
+      letter-spacing: 0.5px;
+      font-feature-settings: 'pnum' on, 'lnum' on; }
+  .report .description {
+    background: #F7F7F7;
+    border-radius: 5px;
+    padding: 20px;
+    width: 550px; }
+    .report .description h3 {
+      margin: 0;
+      font-weight: 500;
+      font-size: 14px;
+      line-height: 17px;
+      color: #8C8C8C; }
+    .report .description a {
+      color: #353535; }
+    .report .description a.blue {
+      color: #4990E2; }
+
+select {
+  margin-bottom: 20px; }
+
+.radio-buttons {
+  display: grid;
+  grid-gap: 12px;
+  margin-bottom: 50px; }
+  .radio-buttons label {
+    display: grid;
+    grid-gap: 12px;
+    grid-auto-flow: column;
+    justify-content: start;
+    align-items: center; }
+  .radio-buttons input {
+    width: 18px;
+    height: 18px; }
+
+.calibration-report {
+  width: 100%;
+  padding: 40px 40px 60px;
+  border: 1px dashed #939DA6;
+  box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
+  background: #fff; }
+
+table {
+  width: 100%; }
+  table td {
+    padding-bottom: 20px;
+    padding-top: 20px;
+    vertical-align: top; }
+  table tr:not(:first-child) td {
+    font-size: 13px;
+    line-height: 15px;
+    border-bottom: 1px dashed #E9E9E9; }
+  table tr:not(:first-child) td:first-child {
+    font-size: 16px;
+    line-height: 19px; }
+  table tr:not(:first-child) td:last-child {
+    font-size: 12px;
+    line-height: 14px; }
+  table tr:first-child {
+    font-size: 13px;
+    line-height: 15px;
+    color: #939DA6; }
+    table tr:first-child td {
+      padding-bottom: 0; }
+  table .img {
+    display: grid;
+    grid-auto-flow: column;
+    grid-gap: 10px;
+    align-items: center;
+    justify-content: start; }
+
+.table-name {
+  font-size: 16px;
+  line-height: 19px;
+  color: #000000;
+  margin-bottom: 25px; }
+

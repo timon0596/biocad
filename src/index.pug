@@ -1,0 +1,143 @@
+body
+  .container
+    .heading Enter inventory number, guid or bims id
+    .search
+      input
+      .btn
+        |search
+    section.report
+      .report__column
+        .device
+          img.device__img(src='/img/scale.svg')
+          .device__name Аналитические весы OHAUS Adventurer АХ324 (B715976163)
+        select
+          option 1 month
+        .radio-buttons
+          label
+            input(type='radio' name='radio')
+            |Calibration
+          label
+            input(type='radio' name='radio')
+            |Measuring
+          label
+            input(type='radio' name='radio')
+            |Using
+        .btn.btn_important Generate report
+      .description
+        h3
+          |Тип оборудования: 
+          |<a>Весы</a>
+        h3
+          |Статус: 
+          |<a>Готов к работе</a>
+        h3
+          |Изготовитель: 
+          |<a>Ohaus</a>
+        h3
+          |Модель: 
+          |<a>AX-123</a>
+        h3
+          |Ответственное подразделение (ремонт): 
+          |<a>Группа обслуживания лабораторного оборудования</a>
+        h3
+          |Эксплуатирующее подразделение: 
+          |<a>Химико-аналитическая лаборатория 2.0</a>
+        h3
+          |МОЛ:
+          |<a>Иванов Иван Иванович</a>
+        h3
+          |Территория:
+          |<a>г. Санкт-Петербург (Нойдорф)</a>
+        h3
+          |Серийный номер:
+          |<a>B715976163</a>
+        h3
+          |GUID:
+          |<a class='blue'>508b2a71-662e-4983-ae0c-3cb0c1cd21c5</a>
+        h3
+          |Bims ID:
+          |<a class='blue'>49db8db1-585f-4b9e-bbf0-8a59698edc8b</a>
+        h3
+          |Tam:
+          |<a class='blue'>А-001234</a>
+    section.calibration-report
+      .table-name Calibration report
+      table
+        tr
+          td Data
+          td Used buffer solutions
+          td Slope, %<br>Norm 95-105
+          td Offset, mV<br>Norm ±(0-20)
+          td User
+        tr
+          td 04.10.19<br>10:23
+          td 
+            |В1: № 2000460789536: pH 1.09<br>
+            |В2: № 2000460789536: pH 2.00<br>
+            |В3: № 2000460789536: pH 4.01<br>
+            |В4: № 2000460789536: pH 7.00<br>
+            |В5: № 2000460789536: pH 9.21
+          td
+            .img
+              |98.7
+              img(src='/img/success.svg')
+          td
+            .img
+              |-0.3
+              img(src='/img/success.svg')
+          td
+            |Иванов Генадий Петрович
+        tr
+          td 04.10.19<br>10:23
+          td 
+            |В1: № 2000460789536: pH 1.09<br>
+            |В2: № 2000460789536: pH 2.00<br>
+            |В3: № 2000460789536: pH 4.01<br>
+            |В4: № 2000460789536: pH 7.00<br>
+            |В5: № 2000460789536: pH 9.21
+          td
+            .img
+              |98.7
+              img(src='/img/success.svg')
+          td
+            .img
+              |-0.3
+              img(src='/img/success.svg')
+          td
+            |Петров Иван Генадьевич
+        tr
+          td 04.10.19<br>10:23
+          td 
+            |В1: № 2000460789536: pH 1.09<br>
+            |В2: № 2000460789536: pH 2.00<br>
+            |В3: № 2000460789536: pH 4.01<br>
+            |В4: № 2000460789536: pH 7.00<br>
+            |В5: № 2000460789536: pH 9.21
+          td
+            .img
+              |98.7
+              img(src='/img/success.svg')
+          td
+            .img
+              |-0.3
+              img(src='/img/success.svg')
+          td
+            |Петров Генадий Иванович
+        tr
+          td 04.10.19<br>10:23
+          td 
+            |В1: № 2000460789536: pH 1.09<br>
+            |В2: № 2000460789536: pH 2.00<br>
+            |В3: № 2000460789536: pH 4.01<br>
+            |В4: № 2000460789536: pH 7.00<br>
+            |В5: № 2000460789536: pH 9.21
+          td
+            .img
+              |90.1
+              img(src='/img/error.svg')
+          td
+            .img
+              |-0.5
+              img(src='/img/success.svg')
+          td
+            |Генадьев Иван Петрович
